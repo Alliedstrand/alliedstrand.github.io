@@ -1,0 +1,31 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.sh]
+indent_size = 4
+
+[package.json]
+indent_size = 2
+
+[.eslintrc]
+indent_size = 2
+
+[.lintstagedrc]
+indent_size = 2
+
+[.prettierrc]
+indent_size = 2
+
+[.stylelintrc]
+indent_size = 2

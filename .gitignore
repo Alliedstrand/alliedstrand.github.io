@@ -1,17 +1,13 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
 /node_modules
 /.pnp
 .pnp.js
 
-# testing
 /coverage
 
-# production
 /build
+# TODO: Remove when closer to release so that the site is picked up by GitHub pages.
+/docs
 
-# misc
 .DS_Store
 .env.local
 .env.development.local

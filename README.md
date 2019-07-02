@@ -1,44 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Alliedstrand Open Source Projects
 
-## Available Scripts
+<a href="https://alliedstrand.com/">
+<img src="https://img.shields.io/badge/We%20know-Industry%204.0-blue.svg" alt="We Know Industry 4.0" />
+</a>
+<a href="https://github.com/Alliedstrand/alliedstrand.github.io/blob/master/LICENSE">
+<img src="https://img.shields.io/badge/license-MIT-red.svg" alt="This repository is released under the MIT License" />
+</a>
 
-In the project directory, you can run:
+**One stop shop for all currently active open source projects supported by Alliedstrand.**
 
-### `npm start`
+TODO.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Code of Conduct
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This project has adopted the [Alliedstrand Open Source Community Participation Guidelines](https://github.com/Alliedstrand/os-community-guidelines).
 
-### `npm test`
+### License
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Copyright (c) Alliedstrand Corporation. All rights reserved.
 
-### `npm run build`
+Licensed under the [MIT](./LICENSE) license.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Attributions
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project was initially generated via the [Create React App](https://facebook.github.io/create-react-app/)
+tool using the [TypeScript template](https://facebook.github.io/create-react-app/docs/adding-typescript).
+The Create React App tooling is licensed under the [MIT License](https://github.com/facebook/create-react-app/blob/master/LICENSE).
